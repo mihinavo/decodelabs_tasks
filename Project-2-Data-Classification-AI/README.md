@@ -110,24 +110,6 @@ The predicted class was:
 
 **Setosa**
 
-## Project Structure
-
-
-DecodeLabs-Internship/
-|
-+-- Project-1-Rule-Based-AI-Chatbot/
-|   +-- chatbot.py
-|   +-- README.md
-|   +-- screenshots/
-|
-+-- Project-2-Data-Classification-AI/
-    +-- main.py
-    +-- README.md
-    +-- requirements.txt
-    +-- screenshots/
-        +-- project2-output.png
-
-
 ## How to Run
 
 ### 1. Open the Project 2 folder

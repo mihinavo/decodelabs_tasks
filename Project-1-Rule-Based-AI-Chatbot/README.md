@@ -42,19 +42,6 @@ The chatbot uses predefined rules and if-elif-else decision-making to respond to
 - datetime
 - random
 
-## Project Structure
-
-Rule-Based-AI-Chatbot/
-|
-|-- chatbot.py
-|-- README.md
-|
-|-- screenshots/
-    |-- chatbot-output-1.png
-    |-- chatbot-output-2.png
-    |-- chatbot-output-3.png
-    |-- chatbot-output-4.png
-
 ## How to Run
 
 1. Make sure Python 3 is installed.
